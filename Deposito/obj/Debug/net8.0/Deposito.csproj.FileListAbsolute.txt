@@ -1,0 +1,14 @@
+C:\Users\lucas.hillys\Desktop\Meus programas\Deposito\Deposito\bin\Debug\net8.0\Deposito.exe
+C:\Users\lucas.hillys\Desktop\Meus programas\Deposito\Deposito\bin\Debug\net8.0\Deposito.deps.json
+C:\Users\lucas.hillys\Desktop\Meus programas\Deposito\Deposito\bin\Debug\net8.0\Deposito.runtimeconfig.json
+C:\Users\lucas.hillys\Desktop\Meus programas\Deposito\Deposito\bin\Debug\net8.0\Deposito.dll
+C:\Users\lucas.hillys\Desktop\Meus programas\Deposito\Deposito\bin\Debug\net8.0\Deposito.pdb
+C:\Users\lucas.hillys\Desktop\Meus programas\Deposito\Deposito\obj\Debug\net8.0\Deposito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.hillys\Desktop\Meus programas\Deposito\Deposito\obj\Debug\net8.0\Deposito.AssemblyInfoInputs.cache
+C:\Users\lucas.hillys\Desktop\Meus programas\Deposito\Deposito\obj\Debug\net8.0\Deposito.AssemblyInfo.cs
+C:\Users\lucas.hillys\Desktop\Meus programas\Deposito\Deposito\obj\Debug\net8.0\Deposito.csproj.CoreCompileInputs.cache
+C:\Users\lucas.hillys\Desktop\Meus programas\Deposito\Deposito\obj\Debug\net8.0\Deposito.dll
+C:\Users\lucas.hillys\Desktop\Meus programas\Deposito\Deposito\obj\Debug\net8.0\refint\Deposito.dll
+C:\Users\lucas.hillys\Desktop\Meus programas\Deposito\Deposito\obj\Debug\net8.0\Deposito.pdb
+C:\Users\lucas.hillys\Desktop\Meus programas\Deposito\Deposito\obj\Debug\net8.0\Deposito.genruntimeconfig.cache
+C:\Users\lucas.hillys\Desktop\Meus programas\Deposito\Deposito\obj\Debug\net8.0\ref\Deposito.dll
