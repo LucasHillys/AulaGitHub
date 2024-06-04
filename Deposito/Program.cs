@@ -65,7 +65,7 @@ internal class Program
 
         Console.WriteLine("Encerrando atendimento...");
         Console.WriteLine();
-        Console.WriteLine("Atendimento encerrado.");
+        Console.WriteLine("Atendimento encerrado!");
 
 
     }
